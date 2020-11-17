@@ -1,1 +1,2 @@
-# Quizlovers
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
